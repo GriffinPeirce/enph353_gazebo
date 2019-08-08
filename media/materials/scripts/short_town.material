@@ -1,0 +1,12 @@
+material short_town{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture Autonomous_driving_surface_v0.5c_shortB.png
+            }
+        }   
+    }
+}
